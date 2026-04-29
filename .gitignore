@@ -1,0 +1,14 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.config/
+.local/
+.ssh/
+.viminfo
+.zsh_history
+.zshrc
+snap/
+*.swp
+.vboxclient-*
+.oh-my-zsh
